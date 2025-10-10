@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+E:/Code File/esp-idf/waveshare demo/ESP32-P4-NANO_Demo/ESP-IDF/2_Intermediate/03_wifistation/build/CMakeFiles/bootloader
+E:/Code File/esp-idf/waveshare demo/ESP32-P4-NANO_Demo/ESP-IDF/2_Intermediate/03_wifistation/build/CMakeFiles/bootloader.rule
+E:/Code File/esp-idf/waveshare demo/ESP32-P4-NANO_Demo/ESP-IDF/2_Intermediate/03_wifistation/build/CMakeFiles/bootloader-complete.rule
+E:/Code File/esp-idf/waveshare demo/ESP32-P4-NANO_Demo/ESP-IDF/2_Intermediate/03_wifistation/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+E:/Code File/esp-idf/waveshare demo/ESP32-P4-NANO_Demo/ESP-IDF/2_Intermediate/03_wifistation/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+E:/Code File/esp-idf/waveshare demo/ESP32-P4-NANO_Demo/ESP-IDF/2_Intermediate/03_wifistation/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+E:/Code File/esp-idf/waveshare demo/ESP32-P4-NANO_Demo/ESP-IDF/2_Intermediate/03_wifistation/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+E:/Code File/esp-idf/waveshare demo/ESP32-P4-NANO_Demo/ESP-IDF/2_Intermediate/03_wifistation/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+E:/Code File/esp-idf/waveshare demo/ESP32-P4-NANO_Demo/ESP-IDF/2_Intermediate/03_wifistation/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+E:/Code File/esp-idf/waveshare demo/ESP32-P4-NANO_Demo/ESP-IDF/2_Intermediate/03_wifistation/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

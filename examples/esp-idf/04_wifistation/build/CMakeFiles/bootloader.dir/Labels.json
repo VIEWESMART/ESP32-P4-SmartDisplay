@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "E:/Code File/esp-idf/waveshare demo/ESP32-P4-NANO_Demo/ESP-IDF/2_Intermediate/03_wifistation/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "E:/Code File/esp-idf/waveshare demo/ESP32-P4-NANO_Demo/ESP-IDF/2_Intermediate/03_wifistation/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "E:/Code File/esp-idf/waveshare demo/ESP32-P4-NANO_Demo/ESP-IDF/2_Intermediate/03_wifistation/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "E:/Code File/esp-idf/waveshare demo/ESP32-P4-NANO_Demo/ESP-IDF/2_Intermediate/03_wifistation/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "E:/Code File/esp-idf/waveshare demo/ESP32-P4-NANO_Demo/ESP-IDF/2_Intermediate/03_wifistation/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "E:/Code File/esp-idf/waveshare demo/ESP32-P4-NANO_Demo/ESP-IDF/2_Intermediate/03_wifistation/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "E:/Code File/esp-idf/waveshare demo/ESP32-P4-NANO_Demo/ESP-IDF/2_Intermediate/03_wifistation/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "E:/Code File/esp-idf/waveshare demo/ESP32-P4-NANO_Demo/ESP-IDF/2_Intermediate/03_wifistation/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "E:/Code File/esp-idf/waveshare demo/ESP32-P4-NANO_Demo/ESP-IDF/2_Intermediate/03_wifistation/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "E:/Code File/esp-idf/waveshare demo/ESP32-P4-NANO_Demo/ESP-IDF/2_Intermediate/03_wifistation/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}
