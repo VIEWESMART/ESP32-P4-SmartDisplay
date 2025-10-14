@@ -1,2 +1,4 @@
-# ESP32P4-UEDX10260070E-WB-A
+# ESP32-P4-SmartDisplay
+
+
 
