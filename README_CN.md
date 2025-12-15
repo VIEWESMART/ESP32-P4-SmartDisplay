@@ -1,4 +1,6 @@
 # ESP32-P4-SmartDisplay
+[English](/README.md)
+
 <img width="1158" height="694" alt="image" src="image/70E.png" />
 <img width="1165" height="691" alt="image" src="image/70E-1.png" />
 
