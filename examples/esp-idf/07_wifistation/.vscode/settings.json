@@ -1,0 +1,13 @@
+{
+  "idf.espIdfPathWin": "D:/Espressif/frameworks/esp-idf-v5.3.2/",
+  "idf.toolsPathWin": "D:\\Espressif\\tools",
+  "idf.pythonInstallPath": "d:\\Espressif\\tools\\tools\\idf-python\\3.11.2\\python.exe",
+  "idf.openOcdConfigs": [
+    "board/esp32p4-builtin.cfg"
+  ],
+  "idf.customExtraVars": {
+    "IDF_TARGET": "esp32p4"
+  },
+  "idf.portWin": "COM4",
+  "idf.flashType": "UART"
+}

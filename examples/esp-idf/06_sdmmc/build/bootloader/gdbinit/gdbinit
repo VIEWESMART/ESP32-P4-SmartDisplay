@@ -1,0 +1,2 @@
+source E:/Code File/esp-idf/examples/esp-idf/05_sdmmc/build/bootloader/gdbinit/symbols
+source E:/Code File/esp-idf/examples/esp-idf/05_sdmmc/build/bootloader/gdbinit/connect

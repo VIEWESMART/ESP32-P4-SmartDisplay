@@ -1,6 +1,0 @@
-source "D:/Espressif/vscode/frameworks/v5.5.1/esp-idf/components/bootloader/Kconfig.projbuild"
-source "D:/Espressif/vscode/frameworks/v5.5.1/esp-idf/components/esp_app_format/Kconfig.projbuild"
-source "D:/Espressif/vscode/frameworks/v5.5.1/esp-idf/components/esp_rom/Kconfig.projbuild"
-source "D:/Espressif/vscode/frameworks/v5.5.1/esp-idf/components/esptool_py/Kconfig.projbuild"
-source "D:/Espressif/vscode/frameworks/v5.5.1/esp-idf/components/partition_table/Kconfig.projbuild"
-source "E:/Code File/esp-idf/waveshare demo/ESP32-P4-NANO_Demo/ESP-IDF/2_Intermediate/02_sdmmc/main/Kconfig.projbuild"

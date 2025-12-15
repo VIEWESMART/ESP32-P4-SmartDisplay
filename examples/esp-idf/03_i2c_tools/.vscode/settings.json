@@ -1,0 +1,19 @@
+{
+  "idf.espIdfPathWin": "D:/Espressif/frameworks/esp-idf-v5.5-rc1/",
+  "idf.toolsPathWin": "D:\\Espressif\\tools",
+  "idf.pythonInstallPath": "D:\\Espressif\\tools\\tools\\idf-python\\3.11.2\\python.exe",
+  "idf.openOcdConfigs": [
+    "board/esp32p4-builtin.cfg"
+  ],
+  "idf.customExtraVars": {
+    "IDF_TARGET": "esp32p4"
+  },
+  "clangd.path": "D:\\Espressif\\tools\\tools\\esp-clang\\esp-19.1.2_20250312\\esp-clang\\bin\\clangd.exe",
+  "clangd.arguments": [
+    "--background-index",
+    "--query-driver=D:\\Espressif\\tools\\tools\\riscv32-esp-elf\\esp-14.2.0_20241119\\riscv32-esp-elf\\bin\\riscv32-esp-elf-gcc.exe",
+    "--compile-commands-dir=e:\\ESP32\\ESP32-P4-Pi\\examples\\ESP-IDF\\03_i2c_tools\\build"
+  ],
+  "idf.flashType": "UART",
+  "idf.portWin": "COM8"
+}
